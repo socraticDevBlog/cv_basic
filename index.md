@@ -1,3 +1,9 @@
+<style>
+  #ghbutton {
+	display: none;
+	visibility: hidden;
+</style>
+
 # Maxime Bonin
 Développeur devops IaC, développeur web fullstack.
 
