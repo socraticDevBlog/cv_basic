@@ -1,7 +1,3 @@
----
-layout: cv
-title: CV de Maxime Bonin
----
 # Maxime Bonin
 Développeur devops IaC, développeur web fullstack.
 
